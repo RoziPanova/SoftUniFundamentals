@@ -11,3 +11,5 @@
 - 📁 Arrays, Methods, Objects and Classes, Regular Expressions
 
 ---
+## 🎓 Certificate
+- 🖋 https://softuni.bg/Certificates/Details/194890/7e4d3139
