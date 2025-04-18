@@ -1,6 +1,6 @@
 # 📦 SoftUniFundamentals
 
->This repository is from my SoftUni Fundamentals with C# course i graduated from in 2023
+>This repository is from my SoftUni Fundamentals with C# course i compleated from in 2023
 
 ---
 
